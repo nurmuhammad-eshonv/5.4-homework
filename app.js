@@ -48,6 +48,7 @@
 //     console.log(x * y);
 // }power(3,5)
 
+//8 dan 20 gacha misollar qisman bir xil bolganiligi uchun 25 ga o'tib kettim
 
 // 25-misol
 // .Funskiya soatlar va minutlarni argument sifatida qabul qiladi. Ushbu funkisya soatlar va minutlarni sekundga o’girib ularning yig’indisini qaytarsin.
